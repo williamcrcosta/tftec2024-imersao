@@ -12,6 +12,7 @@ jobs:
   terraform:
     name: 'Terraform Apply'
     runs-on: ubuntu-latest
+    environment: development
 
     steps:
       - name: 'Checkout GitHub Actions'
