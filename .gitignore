@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignorar o arquivo provider.tf
+provider.tf
+
+03-Terraform/.terraform/
+
+03-Terraform/provider.tf
+
+# Outros arquivos ou diretórios a serem ignorados
+# /node_modules
+# /dist
