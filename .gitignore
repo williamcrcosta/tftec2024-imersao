@@ -5,7 +5,7 @@ provider.tf
 
 03-Terraform/.terraform/
 
-03-Terraform/provider.tf
+#03-Terraform/provider.tf
 
 04-WebAppsCode/
 
