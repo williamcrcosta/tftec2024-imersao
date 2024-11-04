@@ -7,7 +7,7 @@ provider.tf
 
 03-Terraform/provider.tf
 
-"WebApps Code"
+04-WebAppsCode/
 
 # Outros arquivos ou diretórios a serem ignorados
 # /node_modules
