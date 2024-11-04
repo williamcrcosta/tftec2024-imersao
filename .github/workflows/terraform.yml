@@ -22,7 +22,7 @@ jobs:
         with:
           terraform_version: 1.0.0
 
-      - name: 'Change Directory to Terraform'
+      - name: 'Navigate to Terraform Directory'
         run: cd 03-Terraform
 
       - name: 'Terraform Init'
