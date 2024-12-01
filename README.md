@@ -1,4 +1,4 @@
-# Imersão TFTEC Azure ao vivo em SP
+# Imersão TFTEC Azure ao vivo em SP #
 
 Esse projeto descreve os principais passos utilizados no nosso treinamento presencial de SP.
 Temos como objetivo construir uma infraestrutura completa, simulando um cenário real de uma empresa que tem a necessidade de utilizar diversos recursos do Azure para rodar o seu negócio.
